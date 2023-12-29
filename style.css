@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+body {
+  background-color: cornsilk;
+}
+
+h1,
+h3 {
+  text-align: center;
+  padding: 1rem;
+  font-size: 64px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+ul,
+p,
+ol {
+  margin: 2em;
+  text-align: left;
+  list-style-type: none;
+}
+
+ol {
+  list-style-type: decimal;
+  padding: 1rem;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
